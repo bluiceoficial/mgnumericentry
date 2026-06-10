@@ -1,5 +1,8 @@
 # MGNumericEntry
 
+> [!NOTE]
+> This repository has been migrated to Codeberg, please see: https://codeberg.org/bluice/mgnumericentry
+
 Um componente customizado para **Fyne (Go)** que fornece um **campo de entrada numérica** com validação, limites (min/max), incremento/decremento e **botões de spin com auto-repeat** (pressionar e segurar).
 
 Ideal para formulários, configurações e interfaces desktop que precisam de controle numérico preciso.
