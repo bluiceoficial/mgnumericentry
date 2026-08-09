@@ -22,7 +22,7 @@ Ideal para formulários, configurações e interfaces desktop que precisam de co
 ## 📦 Instalação
 
 ```bash
-go get github.com/mugomes/mgnumericentry
+go get github.com/profmugomes/mgnumericentry
 ```
 
 ---
